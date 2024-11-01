@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LifeByte
 
 LifeByte is a personalized healthcare application designed to help users monitor their health and well-being. By integrating demographic, health, location, dietary, and fitness data, the app provides tailored wellness plans, exercise routines, diet recommendations, and health alerts to enhance overall well-being.
@@ -10,8 +9,7 @@ LifeByte is a personalized healthcare application designed to help users monitor
 - [Installation](#installation)
 - [Usage](#usage)
 - [Backend Security](#backend-security)
-- [Contributing](#contributing)
-
+  
 ## Key Features
 
 1. **Personalized Health Solutions**
@@ -67,8 +65,6 @@ To run this project locally, follow these steps:
    cd <NAME_OF_APP>
    ```
 
-2. **Install dependencies:**
-=======
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -77,12 +73,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 1. Install dependencies
 
->>>>>>> a99e94c (Initial commit)
    ```bash
    npm install
    ```
 
-<<<<<<< HEAD
 3. **Set up environment variables:**
    Create a `.env` file in the project root and add the following:
 
@@ -134,65 +128,3 @@ The app ensures user data privacy and security through:
 - **End-to-End Encryption (E2EE)** for sensitive health information.
 - **HTTPS** for secure data transmission.
 - **Firebase Authentication** to manage user access securely.
-
-## Contributing
-
-We welcome contributions to improve the app!
-
-1. Fork the repo and create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-
-2. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-
-3. Push to the branch:
-   ```bash
-   git push origin feature/your-feature
-   ```
-
-4. Submit a pull request to the main branch for review.
-
-=======
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
->>>>>>> a99e94c (Initial commit)
